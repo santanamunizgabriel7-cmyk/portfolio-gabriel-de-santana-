@@ -1,16 +1,7 @@
 # 🎬 Nome do Projeto
+Advogado
 ## 📝 Descrição do Projeto
-Este projeto consiste em um motor de recomendação inteligente que
-utiliza técnicas de filtragem colaborativa e baseada em conteúdo. O
-objetivo principal é mitigar a "paralisia de escolha", oferecendo aos
-usuários sugestões personalizadas com base em seu histórico de
-visualização e preferências de gênero.
-Desenvolvido como parte das disciplinas de **Desenvolvimento Front-End
-Para Web (2026.2)**, o sistema processa grandes volumes de dados
-(datasets de filmes e avaliações) para identificar padrões de
-comportamento e similaridades entre títulos, utilizando algoritmos de
-aprendizado de máquina para prever a nota que um usuário daria a um
-filme ainda não assistido.
+O site consiste em trabalhar com advogados, consultar um advogado, acertar com valores.
 ## 🚀 Tecnologias Utilizadas
 * **Linguagem:** HTML5, CSS e JavaScript
 * **Bibliotecas:** Bootstrap
