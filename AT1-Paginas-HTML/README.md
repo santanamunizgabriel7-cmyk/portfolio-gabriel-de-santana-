@@ -3,8 +3,8 @@ Advogado
 ## 📝 Descrição do Projeto
 O site consiste em trabalhar com advogados, consultar um advogado, acertar com valores,
 que trabalha para atender juridicamente melhor aos clientes e aos profissionais, que 
-fala sobre nossos valores e serviçõs do site. Que fala sobre as areas de atuação dos ad-
-vogados, seja direito criminal, direito criminal, direito civil e mais. Que o site foi
+fala sobre nossos valores e serviçõs do site. Que fala sobre as areas de atuação dos 
+advogados, seja direito criminal, direito criminal, direito civil e mais. Que o site foi
 desenvolvido principalmente para os advogados, com o intuito de trabalho sobre o crime 
 e a juridica.
 ## 🚀 Tecnologias Utilizadas
