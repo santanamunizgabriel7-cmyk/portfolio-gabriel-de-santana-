@@ -1,29 +1,31 @@
 # 🎬 Nome do Projeto
 Advogado
 ## 📝 Descrição do Projeto
-O site consiste em trabalhar com advogados, consultar um advogado, acertar com valores.
+O site consiste em trabalhar com advogados, consultar um advogado, acertar com valores. 
+que trabalha para atender juridicamente melhor aos clientes e aos profissionais, que f-
+ala sobre nossos valores e serviçõs do site. Que fala sobre as areas de atuação dos ad-
+vogados, seja direito criminal, direito criminal, direito civil e mais. Que o site foi
+desenvolvido principalmente para os advogados, com o intuito de trabalho sobre o crime 
+e a juridica.
 ## 🚀 Tecnologias Utilizadas
-* **Linguagem:** HTML5, CSS e JavaScript
+* **Linguagem:** HTML5 e CSS
 * **Bibliotecas:** Bootstrap
 * **Ferramentas:** VSCode
-* **Modelo de IA:** Gemini
+* **Modelo de IA:** Chatgpt, Gemini e Copilot
 ## 📊 Resultados e Aprendizados
-O projeto alcançou resultados sólidos em ambiente de teste, demonstrando
-a eficácia do modelo híbrido.
-* **O modelo atingiu 92% de acurácia** nos testes de validação.
-* **Redução de Ruído:** Aprendi a aplicar técnicas de limpeza e
-normalização de dados para melhorar a performance dos algoritmos.
-* **Visualização de Clusters:** Implementei gráficos que mostram como o
-sistema agrupa filmes por afinidade.
+ Defeitos e Erros: Ao longo do desenvolvimento do site, vimos varios erros e defeitos 
+ durante a construção do projeto, como html incorreto, faltas de códigos, links e pa-
+ rtes das páginas não conectados, Fora a organização das estruturas dos códigos e ma-
+ is algumas como os conectores da linguagem dos códigos.
+Aprendizados: Aprendemos a colocar da forma correta os códigos, a conectar eles com 
+páginas, a estruturar, organizar e melhorar a estrutura dos códigos e do site e de 
+sua funcionalidade.
 ## 🧠 Declaração de Uso Ético da IA
-Este projeto utilizou inteligência artificial ([Nome do Modelo, ex:
-ChatGPT / GitHub Copilot]) estritamente como ferramenta de suporte
-tecnológico para [Finalidade, ex: estruturação inicial do HTML e
-depuração de funções em JavaScript]. Todo o código gerado foi revisado,
-testado e compreendido por mim, garantindo a minha responsabilidade
-integral sobre a autoria final, integridade e funcionamento da
-aplicação.
+Este projeto utilizou inteligência artificial. (Chatgpt) com a necessidade da construção 
+do site, geração dos textos e de alguns códigos das páginas, como um auxilio e ajuda.
+(Gemini) Com a melhora das estruturas dos códigos do site, avaliação e análise do site 
+se teve defeitos e algun código incorreto ou que não estava funcionando.
 ## 💻 Deploy do projeto
-[Clique para acessar](https://seu-usuario.github.io/xxxxxxxxx/)
+[Clique para acessar]( )
 ---
 [Voltar ao início](https://github.com/seu-usuario/portfolio-usuario)
