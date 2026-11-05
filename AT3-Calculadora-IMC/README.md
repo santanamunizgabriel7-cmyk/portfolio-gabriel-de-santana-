@@ -1,38 +1,27 @@
  # 🎬 Nome do Projeto
+ Calculadora de IMC
 ## 📝 Descrição do Projeto
-Este projeto consiste em um motor de recomendação inteligente que
-utiliza técnicas de filtragem colaborativa e baseada em conteúdo. O
-objetivo principal é mitigar a "paralisia de escolha", oferecendo aos
-usuários sugestões personalizadas com base em seu histórico de
-visualização e preferências de gênero.
-Desenvolvido como parte das disciplinas de **Desenvolvimento Front-End
-Para Web (2026.2)**, o sistema processa grandes volumes de dados
-(datasets de filmes e avaliações) para identificar padrões de
-comportamento e similaridades entre títulos, utilizando algoritmos de
-aprendizado de máquina para prever a nota que um usuário daria a um
-filme ainda não assistido.
+ É uma calculadora com o objetivo de calcular a altura(m) e os pesos(kg) da pessoa,
+ calculado quanto seria seu IMC, e a classificação da sua obesidade. Esse site foi desenvolvendo 
+ para saber essas informações básicas da pessoa, que ajuda na saúde e bem-estar do indíviduo.
 ## 🚀 Tecnologias Utilizadas
-* **Linguagem:** HTML5, CSS e JavaScript
+* **Linguagem:** HTML5 
 * **Bibliotecas:** Bootstrap
 * **Ferramentas:** VSCode
-* **Modelo de IA:** Gemini
+* **Modelo de IA:** Chatgpt
 ## 📊 Resultados e Aprendizados
-O projeto alcançou resultados sólidos em ambiente de teste, demonstrando
-a eficácia do modelo híbrido.
-* **O modelo atingiu 92% de acurácia** nos testes de validação.
-* **Redução de Ruído:** Aprendi a aplicar técnicas de limpeza e
-normalização de dados para melhorar a performance dos algoritmos.
-* **Visualização de Clusters:** Implementei gráficos que mostram como o
-sistema agrupa filmes por afinidade.
+ Resultados: o site funcionou bem, mesmo deois de alguns erros e falhas nos códigos,
+ que teve alguns html como o section, div, main, footer que estavam dando problemas
+ e não funcionando, como tambêm alguns conectores da estrutura.
+ Aprendizados: Eu entendi como colocar os numeros e as medidas nos códigos, as
+ classificações, e a calculadora para calcular da forma correta. Tendo as medições 
+ acertadas e testadas.
 ## 🧠 Declaração de Uso Ético da IA
-Este projeto utilizou inteligência artificial ([Nome do Modelo, ex:
-ChatGPT / GitHub Copilot]) estritamente como ferramenta de suporte
-tecnológico para [Finalidade, ex: estruturação inicial do HTML e
-depuração de funções em JavaScript]. Todo o código gerado foi revisado,
-testado e compreendido por mim, garantindo a minha responsabilidade
-integral sobre a autoria final, integridade e funcionamento da
-aplicação.
+ Foi usado inteligencia artificial. (Chtgpt) Usado na introdução dos códigos 
+ HTML5, na estrtura básica, e na conexão entre os códigos. Usado na análise e 
+ apeiçõamento dos códigos e das medições e das classificações dos pesos e das 
+ alturas.
 ## 💻 Deploy do projeto
-[Clique para acessar](https://seu-usuario.github.io/xxxxxxxxx/)
+[Clique para acessar]()
 ---
 [Voltar ao início](https://github.com/seu-usuario/portfolio-usuario)
