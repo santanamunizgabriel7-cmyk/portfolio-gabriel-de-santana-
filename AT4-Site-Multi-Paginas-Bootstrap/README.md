@@ -1,38 +1,25 @@
  # 🎬 Nome do Projeto
+ Mercado Game
 ## 📝 Descrição do Projeto
-Este projeto consiste em um motor de recomendação inteligente que
-utiliza técnicas de filtragem colaborativa e baseada em conteúdo. O
-objetivo principal é mitigar a "paralisia de escolha", oferecendo aos
-usuários sugestões personalizadas com base em seu histórico de
-visualização e preferências de gênero.
-Desenvolvido como parte das disciplinas de **Desenvolvimento Front-End
-Para Web (2026.2)**, o sistema processa grandes volumes de dados
-(datasets de filmes e avaliações) para identificar padrões de
-comportamento e similaridades entre títulos, utilizando algoritmos de
-aprendizado de máquina para prever a nota que um usuário daria a um
-filme ainda não assistido.
+ Esse é um site de jogos e games, que tem vendas, compras, jogos para baixar e jogar,
+ varios tipos, jogos online, multijogador, de história, aventura e muito mais, e até
+planos de jogos. Esse site foi desenvolvido para os jogadores fazerem compras e achar 
+seus jogos favoritos e populares no mundo atual, de forma mais simples e fácil de acessar
+hoje em dia.
 ## 🚀 Tecnologias Utilizadas
-* **Linguagem:** HTML5, CSS e JavaScript
+* **Linguagem:** HTML5 e CSS
 * **Bibliotecas:** Bootstrap
 * **Ferramentas:** VSCode
-* **Modelo de IA:** Gemini
+* **Modelo de IA:** Chatgpt
 ## 📊 Resultados e Aprendizados
-O projeto alcançou resultados sólidos em ambiente de teste, demonstrando
-a eficácia do modelo híbrido.
-* **O modelo atingiu 92% de acurácia** nos testes de validação.
-* **Redução de Ruído:** Aprendi a aplicar técnicas de limpeza e
-normalização de dados para melhorar a performance dos algoritmos.
-* **Visualização de Clusters:** Implementei gráficos que mostram como o
-sistema agrupa filmes por afinidade.
+ Resultados: Ao de seu deselvovimento, teve códigos e modelos de estruturas inplatados
+ em seu modelo atual, com um desing simples, botões fáceis e simples em seu modelo, que
+ velho alguns problemas a serem corrigidos e a serem arrumados.
+Aprendizados: Os seus modelos da forma adequada, os layouts certos, a separação dos 
+grupos de códigos, e a melhora do processamento do site em sua mudança.
 ## 🧠 Declaração de Uso Ético da IA
-Este projeto utilizou inteligência artificial ([Nome do Modelo, ex:
-ChatGPT / GitHub Copilot]) estritamente como ferramenta de suporte
-tecnológico para [Finalidade, ex: estruturação inicial do HTML e
-depuração de funções em JavaScript]. Todo o código gerado foi revisado,
-testado e compreendido por mim, garantindo a minha responsabilidade
-integral sobre a autoria final, integridade e funcionamento da
-aplicação.
+ Não Foi Usado IA.
 ## 💻 Deploy do projeto
-[Clique para acessar](https://seu-usuario.github.io/xxxxxxxxx/)
+[Clique para acessar](file:///C:/Users/gabri/Documents/AT4%20-%20Mercado%20Games/index.html)
 ---
 [Voltar ao início](https://github.com/seu-usuario/portfolio-usuario)
