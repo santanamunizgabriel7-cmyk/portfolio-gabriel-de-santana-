@@ -1,31 +1,109 @@
-# 🎬 Nome do Projeto
-Advogado
-## 📝 Descrição do Projeto
-O site consiste em trabalhar com advogados, consultar um advogado, acertar com valores,
-que trabalha para atender juridicamente melhor aos clientes e aos profissionais, que 
-fala sobre nossos valores e serviçõs do site. Que fala sobre as areas de atuação dos 
-advogados, seja direito criminal, direito criminal, direito civil e mais. Que o site foi
-desenvolvido principalmente para os advogados, com o intuito de trabalho sobre o crime 
-e a juridica.
-## 🚀 Tecnologias Utilizadas
-* **Linguagem:** HTML5 e CSS
-* **Bibliotecas:** Bootstrap
-* **Ferramentas:** VSCode
-* **Modelo de IA:** Chatgpt, Gemini e Copilot
-## 📊 Resultados e Aprendizados
- Defeitos e Erros: Ao longo do desenvolvimento do site, vimos varios erros e defeitos 
- durante a construção do projeto, como html incorreto, faltas de códigos, links e pa-
- rtes das páginas não conectados, Fora a organização das estruturas dos códigos e ma-
- is algumas como os conectores da linguagem dos códigos.
-Aprendizados: Aprendemos a colocar da forma correta os códigos, a conectar eles com 
-páginas, a estruturar, organizar e melhorar a estrutura dos códigos e do site e de 
-sua funcionalidade.
-## 🧠 Declaração de Uso Ético da IA
-Este projeto utilizou inteligência artificial. (Chatgpt) com a necessidade da construção 
-do site, geração dos textos e de alguns códigos das páginas, como um auxilio e ajuda.
-(Gemini) Com a melhora das estruturas dos códigos do site, avaliação e análise do site 
-se teve defeitos e algun código incorreto ou que não estava funcionando.
-## 💻 Deploy do projeto
-[Clique para acessar](https://github.com/santanamunizgabriel7-cmyk/site-advogado)
----
-[Voltar ao início](https://github.com/santanamunizgabriel7-cmyk/portfolio-gabriel-de-santana-/edit/main/AT1-Paginas-HTML/README.md)
+ <!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="stylesheet" href="css/style.css">
+
+    <title>Advocacia | Início</title>
+</head>
+
+<body>
+
+    <header>
+
+        <h1>Advocacia</h1>
+
+        <nav aria-label="Menu principal">
+            <ul>
+
+                <li>
+                    <a href="index.html">Início</a>
+                </li>
+
+                <li>
+                    <a href="sobre-o-escritorio.html">
+                        Sobre o Escritório
+                    </a>
+                </li>
+
+                <li>
+                    <a href="serviços.html">Serviços</a>
+                </li>
+
+                <li>
+                    <a href="areas-de-atuaçao.html">
+                        Áreas de Atuação
+                    </a>
+                </li>
+
+                <li>
+                    <a href="contatos.html">Contatos</a>
+                </li>
+
+            </ul>
+        </nav>
+
+    </header>
+
+
+    <main>
+
+        <section class="destaque">
+
+            <div>
+
+                <h2>Bem-vindo ao nosso escritório</h2>
+                <img src="image/images.jpg">
+
+                <p>
+                    Somos um escritório de advocacia dedicado a
+                    oferecer atendimento jurídico responsável,
+                    profissional e personalizado.
+                </p>
+
+                <p>
+                    Nosso objetivo é compreender as necessidades
+                    de cada cliente e buscar soluções jurídicas
+                    adequadas para cada situação.
+                </p>
+
+            </div>
+
+        </section>
+
+
+        <section>
+
+            <h2>Nosso compromisso</h2>
+
+            <p>
+                Trabalhamos com ética, responsabilidade,
+                transparência e dedicação, buscando oferecer
+                um atendimento de qualidade aos nossos clientes.
+            </p>
+
+            <p>
+                Conheça nosso escritório, nossos serviços e
+                nossas principais áreas de atuação.
+            </p>
+
+        </section>
+
+    </main>
+
+
+    <footer>
+
+        <p>
+            &copy; 2026 Advocacia.
+            Todos os direitos reservados.
+        </p>
+
+    </footer>
+
+</body>
+
+</html> index.html
