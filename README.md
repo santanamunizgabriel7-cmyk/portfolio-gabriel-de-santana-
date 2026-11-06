@@ -2,49 +2,47 @@
  Gabriel Santana Muniz - Análise e Desenvolvimento de Sistemas
 ---
 ### 📫 Contato & Redes Sociais
- 
----
+ Linkedin: [https://www.linkedin.com/in/gabriel-santana-muniz-219745449/]
+ Email: [santanamunizgabriel@gmail.com]
+ Github: [https://github.com/santanamunizgabriel7-cmyk]
+ ---
 ### 󰞵 Sobre
-Atualmente cursando o [Xº] período de [Nome do Curso] na [Nome da
-Instituição]. Sou apaixonado por resolver problemas através da
-tecnologia e possuo foco em [Área de Interesse - ex: Desenvolvimento
-Backend / Análise de Dados].
-* **Habilidades Técnicas:** [Ex: Python, Java, SQL, AWS, Docker].
-* **Habilidades Socioemocionais:** Trabalho em equipe, comunicação
-assertiva e pensamento crítico.
-* **Experiência/Projetos Relevantes:** Atuei em [Projeto de Iniciação
-Científica/Estágio] onde desenvolvi [resultado principal].
----
+Atualmente Curso o 2 periodo da área de análise e desenvolvimento de sistemas,
+de manhã, meio período, gosto da área de tecnologia, de computação, de dados
+e códigos. E que tenho habilidades com [Html, css, javascript, bootstrap].
+Estudo essa área desde de antes da faculdade, e que já o básico da programação,
+que já cheguei a fazer uns projetos já, como montar site.
 ### 🛠 Minhas Ferramentas Favoritas
 #### 💻 Linguagens e Tecnologias
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge
-&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-ba
-dge&logo=openjdk&logoColor=white)
+ Python - [https://www.python.org/];
+Javascript - [https://developer.mozilla.org/pt-BR/docs/Web/JavaScript];
+VS Code - [https://code.visualstudio.com/];
 #### 🗄 Banco de Dados
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-t
-he-badge&logo=postgresql&logoColor=white)
+ MySQL - [https://www.mysql.com/];
+ PostgreSQL - [https://www.postgresql.org/];
+ Oracle Database - [https://www.oracle.com/br/database/];
 #### 🤖 Inteligência Artificial & Ciência de Dados
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-th
-e-badge&logo=pandas&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg
-?style=for-the-badge&logo=scikit-learn&logoColor=white)
+ Jupyter Notebook - [https://jupyter.org/];
+ PyTorch - [https://pytorch.org/];
+ Tableau - [https://www.tableau.com/pt-br];
 ---
 ### 📂 Portfólio de Projetos
 #### 󰳕 Desenvolvimento Front-End para Web
+ #### 👨‍💻 Desenvolvimento Front-End para Web
+
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Site Básico em HTML5** | Criação de site básico com 5 páginas em
-HTML5. | [Ver Projeto](./AT1-Paginas-HTML/) |
-| **Deploy de Site** | Publicação de site no github pages. | [Ver
-Projeto](./AT2-Deploy-de-Site/) |
-| **Calculadora de IMC** | Desenvolvimento de uma calculadora de IMC com
-JavaScript. | [Ver Projeto](./AT3-Calculadora-IMC/) |
-| **Site com Bootstrap** | Aplicação do Bootstrap para o desenvolvimento
-de um site com múltiplas páginas. | [Ver
-Projeto](./AT4-Site-Multi-Paginas-Bootstrap/) |
-| **Desenvolvimento com IA** | Copilotando o desenvolvimento front-end
-com IA. | [Ver Projeto](./AT5-Front-End-Copilotado-com-IA/) |
+| **Site Básico em HTML5** | Desenvolvimento de um site com cinco páginas utilizando HTML5. | [Ver Projeto]() |
+| **Deploy de Site** | Publicação de um site na internet utilizando GitHub Pages. | [Ver Projeto](./AT2-Deploy-de-Site/) |
+| **Calculadora de IMC** | Desenvolvimento de uma calculadora de Índice de Massa Corporal utilizando JavaScript. | [Ver Projeto](./AT3-Calculadora-IMC/) |
+| **Site com Bootstrap** | Criação de um site com múltiplas páginas utilizando HTML, CSS e Bootstrap. | [Ver Projeto](./AT4-Site-Multi-Paginas-Bootstrap/) |
+| **Desenvolvimento com IA** | Desenvolvimento de um projeto Front-End com auxílio de Inteligência Artificial. | [Ver Projeto](./AT5-Front-End-Copilotado-com-IA/) |
+
+#### 🗃 Modelagem de Banco de Dados
+
+| Projeto | Descrição | Link |
+| :--- | :--- | :---: |
+| **Projeto de Modelagem de Banco de Dados** | Elaboração de documento de requisitos, modelagem Entidade-Relacionamento (ER) e desenvolvimento de scripts SQL. | [Ver Projeto](./projeto-banco-dados/) |
 #### 🗃 Modelagem de Banco de Dados
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
