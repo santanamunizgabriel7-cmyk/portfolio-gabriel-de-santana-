@@ -32,11 +32,11 @@ VS Code - [https://code.visualstudio.com/];
 
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Site Básico em HTML5** | Desenvolvimento de um site com cinco páginas utilizando HTML5. | [Ver Projeto](https://github.com/santanamunizgabriel7-cmyk/portfolio-gabriel-de-santana-/tree/main/AT1-Paginas-HTML) |
-| **Deploy de Site** | Publicação de um site na internet utilizando GitHub Pages. | [Ver Projeto](https://github.com/santanamunizgabriel7-cmyk/portfolio-gabriel-de-santana-/tree/main/AT2-Deploy-de-Site) |
-| **Calculadora de IMC** | Desenvolvimento de uma calculadora de Índice de Massa Corporal utilizando JavaScript. | [Ver Projeto](https://github.com/santanamunizgabriel7-cmyk/portfolio-gabriel-de-santana-/tree/main/AT3-Calculadora-IMC) |
-| **Site com Bootstrap** | Criação de um site com múltiplas páginas utilizando HTML, CSS e Bootstrap. | [Ver Projeto](https://github.com/santanamunizgabriel7-cmyk/portfolio-gabriel-de-santana-/blob/main/AT4-Site-Multi-Paginas-Bootstrap/README.md) |
-| **Desenvolvimento com IA** | Desenvolvimento de um projeto Front-End com auxílio de Inteligência Artificial. | [Ver Projeto](./AT5-Front-End-Copilotado-com-IA/) |
+| **Adovogado** |  Site de advogados, trabalhando com questão de crime e juridica. | [Ver Projeto](https://github.com/santanamunizgabriel7-cmyk/portfolio-gabriel-de-santana-/tree/main/AT1-Paginas-HTML) |
+| **Advogado** |   Site de advogados, trabalhando com questão de crime e juridica. | [Ver Projeto](https://github.com/santanamunizgabriel7-cmyk/portfolio-gabriel-de-santana-/tree/main/AT2-Deploy-de-Site) |
+| **Calculadora de IMC** |  Site de calculadora de altura(m) e pesos(kg), para calcular IMC. | [Ver Projeto](https://github.com/santanamunizgabriel7-cmyk/portfolio-gabriel-de-santana-/tree/main/AT3-Calculadora-IMC) |
+| **Mercado Games** |  Site de loja de jogos, produtos, compras e planos para jogadores. | [Ver Projeto](https://github.com/santanamunizgabriel7-cmyk/portfolio-gabriel-de-santana-/blob/main/AT4-Site-Multi-Paginas-Bootstrap/README.md) |
+| **Inteligencia Artificial Como Colega de Trabalho** |  Site falando sobre o tema, respondendo perguntas e dúvidas a respeito do assunto. | [Ver Projeto](https://github.com/santanamunizgabriel7-cmyk/portfolio-gabriel-de-santana-/blob/main/AT5-Front-End-Copilotado-com-IA/README.md) |
 
 #### 🗃 Modelagem de Banco de Dados
 
