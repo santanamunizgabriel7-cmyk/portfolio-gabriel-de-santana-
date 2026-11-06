@@ -24,4 +24,4 @@
 ## 💻 Deploy do projeto
 [Clique para acessar](file:///C:/Users/gabri/Documents/Inteligencia%20Artificial%20-%20Como%20Colega%20de%20Trabalho/proposta.html)
 ---
-[Voltar ao início](https://github.com/seu-usuario/portfolio-usuario)
+[Voltar ao início](https://github.com/santanamunizgabriel7-cmyk)
