@@ -35,7 +35,7 @@ VS Code - [https://code.visualstudio.com/];
 | **Site Básico em HTML5** | Desenvolvimento de um site com cinco páginas utilizando HTML5. | [Ver Projeto](https://github.com/santanamunizgabriel7-cmyk/portfolio-gabriel-de-santana-/tree/main/AT1-Paginas-HTML) |
 | **Deploy de Site** | Publicação de um site na internet utilizando GitHub Pages. | [Ver Projeto](https://github.com/santanamunizgabriel7-cmyk/portfolio-gabriel-de-santana-/tree/main/AT2-Deploy-de-Site) |
 | **Calculadora de IMC** | Desenvolvimento de uma calculadora de Índice de Massa Corporal utilizando JavaScript. | [Ver Projeto](https://github.com/santanamunizgabriel7-cmyk/portfolio-gabriel-de-santana-/tree/main/AT3-Calculadora-IMC) |
-| **Site com Bootstrap** | Criação de um site com múltiplas páginas utilizando HTML, CSS e Bootstrap. | [Ver Projeto](./AT4-Site-Multi-Paginas-Bootstrap/) |
+| **Site com Bootstrap** | Criação de um site com múltiplas páginas utilizando HTML, CSS e Bootstrap. | [Ver Projeto](https://github.com/santanamunizgabriel7-cmyk/portfolio-gabriel-de-santana-/blob/main/AT4-Site-Multi-Paginas-Bootstrap/README.md) |
 | **Desenvolvimento com IA** | Desenvolvimento de um projeto Front-End com auxílio de Inteligência Artificial. | [Ver Projeto](./AT5-Front-End-Copilotado-com-IA/) |
 
 #### 🗃 Modelagem de Banco de Dados
